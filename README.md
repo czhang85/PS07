@@ -8,7 +8,7 @@ As an admitted and enrolled students of Class of 2025, I'm curious to learn abou
 
 ## Including Code
 
-You can include R code in the document as follows:
+Here is the R code used for visualization:
 
 ``` r
 smith_admission <- read_csv("/Users/cindyzhang/Desktop/Smith Class/2021 Fall/SDS 192/Problem Set/PS07/smith_admission.csv")
@@ -36,7 +36,7 @@ ggplot(data = smith_admission,
 
 ## Including Plots
 
-You can also embed plots, for example:
+Here is the line graph showing the change in acceptance rate:
 
 ![](README_files/figure-gfm/download_smith_admission.png)<!-- -->
 
